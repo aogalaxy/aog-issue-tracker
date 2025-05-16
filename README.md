@@ -1,2 +1,2 @@
-# aog-issue-tracker
+# AOGalaxy
 Track issues, requests, bugs, etc., for AOGalaxy
